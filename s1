@@ -1,8 +1,8 @@
 [200~mgmt_ip: 10.0.0.1
 Vlans: 
-  green:
+  pink:
       id: 10
-        blue:
+        violet:
 	    id: 20
 	    ports:
 	     1: [ 10 ]
