@@ -1,7 +1,7 @@
 [200~mgmt_ip: 10.0.2.2
 Vlans: 
   pink:
-      id: 10
+      id: 335
         violet:
 	    id: 20
 	    ports:
