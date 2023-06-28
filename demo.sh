@@ -4,4 +4,4 @@ echo "***** Display OS version *****"
 cat /etc/*se
 
 echo "***** Display kernel version *****"
-unmae -r:
+uname -r:
